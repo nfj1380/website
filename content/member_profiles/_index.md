@@ -244,7 +244,7 @@ theoretical ecology, community ecology, conservation biology, epidemiology, deci
 
 {{< twitter nfountainjones >}}
 
-I'm interested broadly in community ecology, phyligenetics and linking the two
+Disease ecology, phylogenetic community ecology, functional traits, Baysian phylogenetics and phylogeography
 
 ---
 
