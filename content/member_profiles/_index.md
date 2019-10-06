@@ -244,13 +244,16 @@ theoretical ecology, community ecology, conservation biology, epidemiology, deci
 
 {{< twitter nfountainjones >}}
 
-Disease ecology, phylogenetic community ecology, functional traits, Baysian phylogenetics and phylogeography
+{{< website "https://nickfountainjones.wordpress.com/">}}
+
+Disease ecology, phylogenetic community ecology, invertebrate functional traits, Bayesian phylogenetics and phylogeography"
 
 ---
 
 ## Mark Westoby
 
 {{< twitter westobymark >}}
+
 {{< website "https://markwestoby.wordpress.com/" >}}
 
 ecological strategies in plants and in bacteria-archaea; vegetation dynamics; ecology curriculum
